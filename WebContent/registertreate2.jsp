@@ -15,8 +15,8 @@
 <form  action=""  method="post"  name="frmmain"
     style="width: 30em; margin: auto; margin-top: 150px;">
     
-    <h3>注册成功，点击按钮返回登录界面！</h3><br/><br/><br/>
-   <input type="button" value="返回" class="btn btn-success btn-block" onclick="location='http://localhost:8080/SportsManagement/login.jsp'"/><br/><br/>
+    <h3>两次密码输入不同，请重新注册！</h3><br/><br/><br/>
+   <input type="button" value="返回" class="btn btn-success btn-block" onclick="location='http://localhost:8080/SportsManagement/register.jsp'"/><br/><br/>
     
     
      </form> 

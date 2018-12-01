@@ -1,0 +1,22 @@
+body, html, div, blockquote, img, label, p, h1,h2,h3,h4,h5,h6,pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset,th, td
+{margin: 0; padding: 0; border: 0; outline: none;}
+body{ background: #FCEECB }
+td,th {font-family: "微软雅黑";font-size: 14px;color: #000000;}
+a {color: #fff;} 
+A:link {TEXT-DECORATION: none;}
+A:visited {TEXT-DECORATION: none;}
+A:hover {TEXT-DECORATION: none;color: #ffffff;}
+table{margin-left:120px;}
+h1{ font-family: "华文行楷"; font-size:50px; color:#FF3366;padding-left:120px;}
+h2{     
+      width:auto; margin-top:12px; 
+      float:right; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+      font-size:25px; 
+      color:#bf5151;
+      line-height:25px;
+      letter-spacing:1px
+}
+.nav tr td { font-size:16px; font-weight:700; font-family:"微软雅黑"; }
+.nav tr td:hover{ background: #06C}
+p{ font-family: "微软雅黑"; font-size:16px; line-height:30px; color: #000}
